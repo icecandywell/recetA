@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=100&text=나의%20역할%20:%20HTML5,%20CSS3,%20BootStrap%20등&fontColor=7F00FF&fontSize=48)
 
 # My Role
-
-### 프로젝트 총괄
-  - 산출문서
+ - 프로젝트 총괄
+ - 산출문서
 
 ### 프론트엔드(HTML5/CSS3, BootStrap)
   - 웹페이지 설계 및 구축
