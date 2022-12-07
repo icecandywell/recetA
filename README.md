@@ -23,7 +23,7 @@
 
 ---   
 
-# 프로젝트를 진행하며 느낀 점과 학습한 것
+# 프로젝트에 내가 사용 한 기술 및 
 ### 학습한 기술
   - HTML5/CSS3
   - BootStrap
@@ -71,7 +71,15 @@
   - 테이블 명세서
   - 데이터베이스 요구사항 분석서
   - 화면 설계서
+  
+---  
 
+# 발전가능성
+  ### 나의 냉장고
+  - 나의 냉장고에서 재료 소진 파악 후 식재료 구입할 수 있게 링크를 추가할 수 있다.  
+  - 지도를 통해 근처에 마트 또는 농수산 구매처가 있는지 파악 할 수 있다.
+  ### 다른 기능
+  - 사용자가 직접 레시피를 올릴 수 있다.
 ---
 
 # 사용 기술
@@ -176,7 +184,7 @@
 # 팀원 소개
 |  이름  | Github 주소 |
 | :----: | :-----------: |
-| 송영지 | [Github](https://github.com/icecandywell) |
+| 팀장 송영지 | [Github](https://github.com/icecandywell) |
 | 김도연 | [Github](https://github.com/kdn00) |
 | 김기범 | [Github](https://github.com/colaage23) |
 | 김동현 | [Github](https://github.com/JamesKimberly) |
